@@ -1,2 +1,2 @@
-# vivs-hyprland-4-linux
+# Viv's Hyprland 4 Linux
 My dotfiles for Hyprland
